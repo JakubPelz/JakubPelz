@@ -1,9 +1,23 @@
 Dobrý den,
 
-jsem v IT začátečník. Co můžu nabídnout je ale velká chuť přecházet přes překážky. Nejsem člověk co uznává 8 hodinovou pracovní dobu a podobně. Mám rád když jsou věci hotové. Stále hledám nové cíle a již přes 2 roky (aktivněji mám hotový první rok VŠ) se jako koníčku věnuji JavaScriptu a věcem okolo něj. Na IT hodně oceňuji nové výzvy, cíle, nevšednost a možnost aktivně vytvářet produkty co přináší službu klientům.
+infomrace o mě naleznete na https://www.linkedin.com/in/jakub-pelz-69429621a/.
 
-Prozatím nemám pracovní zkušenosti v tomto oboru nicméně co můžu slíbit je loajalita, velké pracovní nasazení, tah na branku. Není problém, když mě pošlete za klientem abych s ním vedl nějaké jednání nebo u něj zajistil potřebný "servis".
+Na gitu pod public složkami najdete ruzné převzaté componenty a aplikace z tutorialů.
 
-Rád o všech možnostech jak se dál u vás realizovat pokecám na osobní schůzce.
+Ve složce MyGame jsem se rozhodl vytvořit textovou hru na motivy Red Dragon 2, Evolution, Mellior Annis.
+Tak abych zde uplatnil všechny své dosavadní načerpané zkušenosti.
+
+Rád bych aby hra obsahovala:
+
+  - authentikaci uživatele
+  - herní logiku
+  - možnost odesílání zpráv mezi uživateli s ruznou prioritou a zabezpečením
+  - herní logiku s přepočty o půlnoci
+  - zpracovnání form formulářů
+  - statistiky
+  - security routes pro různé typy administrátorů
+  - CMS systém
+
+Na čem zrovna pracuji a co je hotovo můžete najít přímo ve složce v popisku.
 
 Jakub Pelz
