@@ -20,4 +20,4 @@ Rád bych aby hra obsahovala:
 
 Na čem zrovna pracuji a co je hotovo můžete najít přímo ve složce v popisku.
 
-Jakub Pelz
+JP
