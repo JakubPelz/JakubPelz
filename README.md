@@ -11,8 +11,8 @@ Rád bych aby hra obsahovala:
 
   - authentikaci uživatele
   - herní logiku
+  - mechanismy s přepočty v pevně stanovenou dobu
   - možnost odesílání zpráv mezi uživateli s ruznou prioritou a zabezpečením
-  - herní logiku s přepočty o půlnoci
   - zpracovnání form formulářů
   - statistiky
   - security routes pro různé typy administrátorů
