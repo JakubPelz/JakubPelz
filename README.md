@@ -2,8 +2,9 @@ Dobrý den,
 
 infomrace o mě naleznete na https://www.linkedin.com/in/jakub-pelz-69429621a/.
 
-Funční aplikace najdete na: - https://weather-app-theta-ten.vercel.app/
-                            - https://game-status-pt0414plf-jakubpelz.vercel.app/
+Funční aplikace najdete na: 
+   - https://weather-app-theta-ten.vercel.app/
+   - https://game-status-pt0414plf-jakubpelz.vercel.app/
 
 Na gitu pod public složkami najdete ruzné převzaté componenty a aplikace z tutorialů.
 
