@@ -7,6 +7,10 @@ Funční aplikace najdete na:
     V readme najdete popisek aplikace s použitými funkčnostmi. Aplikace dokáže vyhledat požadované město, předpovědět počasí na 7 dní dopředu a má našeptávač, který lustruje soubor s více jak 200.000 městy.
    - https://game-status-pt0414plf-jakubpelz.vercel.app/
 
+Další funkční aplikace je napsaná v TypeScriptu jedná se o aplikaci na vkládání obrázků, která je ukládá na lokal storage. 
+Více informací o aplikaci najdete zde:
+
+
 Na gitu pod public složkami najdete ruzné převzaté componenty a aplikace z tutorialů.
 
 Ve složce MyGame jsem se rozhodl vytvořit textovou hru na motivy Red Dragon 2, Evolution, Mellior Annis.
