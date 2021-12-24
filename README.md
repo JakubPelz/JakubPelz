@@ -10,6 +10,8 @@ Funční aplikace najdete na:
 Další funkční aplikace je napsaná v TypeScriptu jedná se o aplikaci na vkládání obrázků, která je ukládá na lokal storage. 
 Více informací o aplikaci najdete zde:
 
+   - https://github.com/JakubPelz/ImageGallery
+
 
 Na gitu pod public složkami najdete ruzné převzaté componenty a aplikace z tutorialů.
 
